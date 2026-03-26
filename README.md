@@ -116,3 +116,5 @@ Persistência - Boas práticas
 ![Dados do banco](assets/Print2.png)
 
 ![Execução do tox](assets/Print3.png)
+
+![Arquivo database aberto](assets/Print4.png)
