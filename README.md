@@ -11,19 +11,19 @@ O pipeline realiza as seguintes etapas:
 
 ### 🔹 1. Ingestão
 
--   Consome dados da API pública: https://randomuser.me\
+-   Consome dados da API pública: https://randomuser.me
 -   Retorna dados estruturados em **DataFrame (pandas)**
 
 ### 🔹 2. Validação
 
--   Verifica se as colunas obrigatórias estão presentes\
+-   Verifica se as colunas obrigatórias estão presentes
 -   Gera logs de sucesso ou erro
 
 ### 🔹 3. Preparação
 
--   Renomeia colunas\
--   Ajusta tipos de dados\
--   Remove caracteres especiais\
+-   Renomeia colunas
+-   Ajusta tipos de dados
+-   Remove caracteres especiais
 -   Filtra apenas colunas relevantes
 
 ### 🔹 4. Persistência
