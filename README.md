@@ -45,11 +45,9 @@ O pipeline realiza as seguintes etapas:
     │   ├── config.yml
     │   └── database.db
     │   └── log.txt
-    │
-    ├── tests/
-    │   └── test_utils.py
     |
     ├── requirements.txt
+    ├── .gitignore
     ├── tox.ini
     ├── read_db.py
     └── README.md
@@ -97,7 +95,6 @@ python read_db.py
 -   SQLite
 -   Pydantic
 -   StrictYAML
--   Pytest
 -   Tox
 
 ------------------------------------------------------------------------
