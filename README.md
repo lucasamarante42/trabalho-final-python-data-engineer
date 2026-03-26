@@ -104,7 +104,7 @@ python read_db.py
 
 ## 🎯 Objetivo
 
-Demonstrar conceitos de: - Pipeline de dados - API - Transformação -
+Demonstrar conceitos de: Pipeline de dados - API - Transformação -
 Persistência - Boas práticas
 
 ------------------------------------------------------------------------
@@ -116,9 +116,3 @@ Persistência - Boas práticas
 ![Dados do banco](assets/Print2.png)
 
 ![Execução do tox](assets/Print3.png)
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Autor
-
-Projeto acadêmico - Python Programming for Data Engineers
