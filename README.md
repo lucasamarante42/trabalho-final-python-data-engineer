@@ -111,11 +111,11 @@ Persistência - Boas práticas
 
 ## 📋 Resultados finais
 
-![Execução do app](Print1.png)
+![Execução do app](assets/Print1.png)
 
-![Dados do banco](Print2.png)
+![Dados do banco](assets/Print2.png)
 
-![Execução do tox](Print3.png)
+![Execução do tox](assets/Print3.png)
 
 ------------------------------------------------------------------------
 
