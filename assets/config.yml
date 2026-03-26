@@ -1,0 +1,13 @@
+data:
+  input_api: "https://randomuser.me/api/"
+  results: 10
+  required_columns:
+    - name.first
+    - name.last
+    - email
+    - dob.age
+    - phone
+
+database:
+  db_path: "assets/database.db"
+  table_name: "users"
